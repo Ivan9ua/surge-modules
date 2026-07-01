@@ -22,7 +22,7 @@
 
 - [SukkaW/Surge](https://github.com/SukkaW/Surge) — 域名规则 + IP 规则
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) — 微信规则
-- 策略组 Smart 自动选优基于 Flower Cloud 机场订阅
+- 策略组 Smart 自动选优
 
 ## 使用方法
 
